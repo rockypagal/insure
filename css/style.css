@@ -302,7 +302,7 @@ p {
         align-items: center;
         flex-direction: column;
         gap:3rem;
-       
+       overflow: hidden;
     }
 
     .flogo,.media{
@@ -322,6 +322,9 @@ p {
         left: 0;
         width: fit-content;
         z-index: 0;
+    }
+    .pattern5 img{
+      width:100vw;
     }
 
 
