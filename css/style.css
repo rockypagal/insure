@@ -875,7 +875,7 @@ p {
     }
     
     .patt .db1 img{
-        width:100%;
+        width:70%;
         z-index: -1;
     }
 
@@ -884,6 +884,17 @@ p {
         padding:3rem 0;
     }
 
+
+
+}
+
+@media screen and (min-width:1500px) {
+
+
+    .patt .db1 img{
+        width:100%;
+        z-index: -1;
+    }
 
 
 }
