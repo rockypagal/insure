@@ -20,3 +20,7 @@ else{
     window.onscroll = function() {};
 }
 });
+
+
+let hero = document.querySelector('.hero').getBoundingClientRect().width;;
+
